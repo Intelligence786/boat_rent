@@ -83,7 +83,6 @@ class _NewTransportSecondInfoStateScreenState
         SizedBox(
           height: 100,
           child: CustomTextFormField(
-            textInputAction: TextInputAction.none,
             maxLines: null,
             expanded: true,
             textStyle: theme.textTheme.bodyLarge,
